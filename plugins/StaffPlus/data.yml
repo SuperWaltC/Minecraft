@@ -1,0 +1,14 @@
+# All saved data for Staff+. Only modify this file if you know what you're doing!
+
+
+0ee7dd4f-c75d-4a80-bc30-31fff239cbfb:
+  name: SuperWaltC
+  password: ''
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - NAME_CHANGE;true
+  - MENTION;true
+  - XRAY;true

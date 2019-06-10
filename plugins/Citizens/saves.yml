@@ -1,0 +1,97 @@
+# Citizens NPC Storage
+
+
+last-created-npc-id: 2
+npc:
+  '0':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MzQ3Mzk3Njk3NzksInByb2ZpbGVJZCI6IjBlZTdkZDRmYzc1ZDRhODBiYzMwMzFmZmYyMzljYmZiIiwicHJvZmlsZU5hbWUiOiJTdXBlcldhbHRDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYWE3MmQyMTIzMDJlMTM2NTI1YWRhNjJlMWI4MTJkMDVmOWE1M2Y1NDg0MTdmY2JjYWE4NDJhMzMzODhmMjI0In19fQ==
+      cached-skin-uuid-name: superwaltc
+      cached-skin-uuid: 0ee7dd4f-c75d-4a80-bc30-31fff239cbfb
+      player-skin-signature: imWIKmBYIHe5Z/CPxHbsSQ32TJrobpCrHywOVlWg4Sv0mWPlbXRWteANPcsQoxp7aLwMTqub1Vzpe9cCZLh9i5U0WT2enJ36CEClc1/28Z6en2fiG6gEwD+x+77p93LBNKbvgFyUQNBCCxtbwDGhEDSEdlX9pMLCO4b4/+FW1CLmquYVjL+JhLB5tY0JiNuAbuv5m5vN6MkMVaBeUuv9cuzBE6Lf3/t0qyextXhT8I9CEeYp48dNsaJhs2b6LYkuAO90al1MXecc0zbstEIeHuFMpE8e0GQZIdSlbiRRkBKbUSOBL0qHwXcrg+zVw91JHtm9KLp1pXuyHTCGxAffrqwGeOD4jfH2kk36YnZ/Ne72OySAq3Xu0MYQ4ULvyq8Tt7Ywmk5sEUSZQ4WSoyshwOvdEcadEsobN2PEy8FgndHyRBkF/e6Ex+xvz9whPgxh0qINSt09K2S+4x2dSJIjcvhJkhy3TEKsIWpdTKK8a0zTpv5E+SoHaqxPVp+/+qvCht9F5SNCvPx0vMKJJNd+PsQerpyf7PP7dXjULVLOf4DwUDC9xMjG7on8X24VACFP0wIkQweyVMJYNW9TF5Vsf/onZNX99GI2EZItrpGDioOoOmr/99Sy/gns/Xr2sK3Dx+4jHQ1BrsdcgA900J3htJs+fMSO2A3hbGZKIDxavXs=
+    name: SuperWaltC
+    uuid: 04422ce1-b8c9-47fc-a4c2-f1fe7c8ac87d
+    traits:
+      location:
+        world: world
+        x: '99.0819'
+        y: '64.0'
+        z: '56.9515'
+        yaw: '108.6595458984375'
+        pitch: '0.0'
+      spawned: true
+      type: PLAYER
+      gravity:
+        enabled: false
+      lookclose:
+        range: '5.0'
+        enabled: true
+        realisticlooking: false
+      owner:
+        owner: SuperWaltC
+        uuid: 0ee7dd4f-c75d-4a80-bc30-31fff239cbfb
+    traitnames: type,equipment,owner,mounttrait,inventory,location,gravity,spawned,lookclose
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '1':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MzQ3Mzk3Njk3NzksInByb2ZpbGVJZCI6IjBlZTdkZDRmYzc1ZDRhODBiYzMwMzFmZmYyMzljYmZiIiwicHJvZmlsZU5hbWUiOiJTdXBlcldhbHRDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYWE3MmQyMTIzMDJlMTM2NTI1YWRhNjJlMWI4MTJkMDVmOWE1M2Y1NDg0MTdmY2JjYWE4NDJhMzMzODhmMjI0In19fQ==
+      cached-skin-uuid-name: superwaltc
+      cached-skin-uuid: 0ee7dd4f-c75d-4a80-bc30-31fff239cbfb
+      player-skin-signature: imWIKmBYIHe5Z/CPxHbsSQ32TJrobpCrHywOVlWg4Sv0mWPlbXRWteANPcsQoxp7aLwMTqub1Vzpe9cCZLh9i5U0WT2enJ36CEClc1/28Z6en2fiG6gEwD+x+77p93LBNKbvgFyUQNBCCxtbwDGhEDSEdlX9pMLCO4b4/+FW1CLmquYVjL+JhLB5tY0JiNuAbuv5m5vN6MkMVaBeUuv9cuzBE6Lf3/t0qyextXhT8I9CEeYp48dNsaJhs2b6LYkuAO90al1MXecc0zbstEIeHuFMpE8e0GQZIdSlbiRRkBKbUSOBL0qHwXcrg+zVw91JHtm9KLp1pXuyHTCGxAffrqwGeOD4jfH2kk36YnZ/Ne72OySAq3Xu0MYQ4ULvyq8Tt7Ywmk5sEUSZQ4WSoyshwOvdEcadEsobN2PEy8FgndHyRBkF/e6Ex+xvz9whPgxh0qINSt09K2S+4x2dSJIjcvhJkhy3TEKsIWpdTKK8a0zTpv5E+SoHaqxPVp+/+qvCht9F5SNCvPx0vMKJJNd+PsQerpyf7PP7dXjULVLOf4DwUDC9xMjG7on8X24VACFP0wIkQweyVMJYNW9TF5Vsf/onZNX99GI2EZItrpGDioOoOmr/99Sy/gns/Xr2sK3Dx+4jHQ1BrsdcgA900J3htJs+fMSO2A3hbGZKIDxavXs=
+    name: SuperWaltC
+    uuid: 70eb5534-1d47-4caa-9110-f78c7debdb08
+    traits:
+      location:
+        world: world
+        x: '185.6508'
+        y: '86.0'
+        z: '439.3625'
+        yaw: '-1.949550747871399'
+        pitch: '0.0'
+      spawned: true
+      type: PLAYER
+      gravity:
+        enabled: false
+      owner:
+        owner: SuperWaltC
+        uuid: 0ee7dd4f-c75d-4a80-bc30-31fff239cbfb
+    traitnames: type,equipment,owner,mounttrait,inventory,location,gravity,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MzgwMTkwNDkwMjgsInByb2ZpbGVJZCI6IjBlZTdkZDRmYzc1ZDRhODBiYzMwMzFmZmYyMzljYmZiIiwicHJvZmlsZU5hbWUiOiJTdXBlcldhbHRDIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYWE3MmQyMTIzMDJlMTM2NTI1YWRhNjJlMWI4MTJkMDVmOWE1M2Y1NDg0MTdmY2JjYWE4NDJhMzMzODhmMjI0In19fQ==
+      cached-skin-uuid-name: superwaltc
+      cached-skin-uuid: 0ee7dd4f-c75d-4a80-bc30-31fff239cbfb
+      player-skin-signature: VfByfRfr8SEZQrKVaikwJ6MFdAEKKMZWgzIxDBc20zZJLxl8BtJRXxNnfSyPMpLn0Vc6lTuMj3CC7aAmdrS7eXIuALAotE2mnHJ+iXrzzcXFWRQxb8BAPxpxj9lApTUXyTuN8LcUDh6aoFCq/eAC2EWT+cKRaXXc7zzw4zZ8tg1MnIiVRfjLUN8ZiT7Zvx/CVKfL7lGzPajfRy4s8m5kKlbbU/D0wQUS8pYDFE4sH1FNLDV3OCr7QVjG32hhTDkoule1xAgIgsZoazNgikjJSdHQaHPihQs9ZFj53aLA9Javnvid7Pv3hr6pvsEb96js/uVJVhqCdUkR6If6yPqi451ejuXIVjPlxKqpnFeWgkQYhVNtS08xX/Kh4LtJD8YFFEpsPfWRGU9wpVSDQ/nAzI1buQqEPWK1IFT+mX2MwUwRtlBqouXemm5mcnGderZR9PL0VQOIfLtaA8pfe1D7x9W1YWuxbBo6QSxrhcxaK9kxJRdUJqhIptPCoBFqlP13/2mP2UMWhcrNVzeQhnArrW782md44ZCENPSxyWuLqtH8j3tv8QPpZa05/VXL6bw8THpEIn1lsEWUrRsHxUNhQC/Hj7lr6iUdIa5QUWtOM+zCelQ5LMMBKp+KzfFfD/K6f3yXeBnyrL581zK8uT+JyK6p9KJ82jv9W2zDhyH36Is=
+    name: SuperWaltC
+    uuid: 647a0711-84fd-485c-ac6f-47afa3747123
+    traits:
+      spawned: true
+      type: PLAYER
+      lookclose:
+        range: '5.0'
+        enabled: true
+        realisticlooking: false
+      location:
+        world: world
+        x: '483.7708'
+        y: '77.0'
+        z: '567.7278'
+        yaw: '53.78092956542969'
+        pitch: '0.0'
+      gravity:
+        enabled: false
+      owner:
+        owner: SuperWaltC
+        uuid: 0ee7dd4f-c75d-4a80-bc30-31fff239cbfb
+    traitnames: type,equipment,owner,mounttrait,inventory,location,gravity,spawned,lookclose
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

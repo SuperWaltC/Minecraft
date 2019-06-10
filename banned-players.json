@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "142fca6e-396d-4162-9b58-cddf60aad4a0",
+    "name": "Yes",
+    "created": "2018-08-19 14:22:16 -0700",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "KA 3D"
+  },
+  {
+    "uuid": "8e1edca1-cc02-4d19-8226-366530ac649b",
+    "name": "Deadpool",
+    "created": "2018-08-19 21:34:31 -0700",
+    "source": "SuperWaltC",
+    "expires": "forever",
+    "reason": "ban for good"
+  },
+  {
+    "uuid": "884a0d8c-27fa-4824-b3ef-94f50ea94b5f",
+    "name": "list",
+    "created": "2018-08-20 11:35:17 -0700",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
